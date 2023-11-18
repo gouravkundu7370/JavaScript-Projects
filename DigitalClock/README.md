@@ -5,4 +5,4 @@
 - Uses the Concept of **DOM Manipulation**
 - Basics of JavaScript Concepts of handleing **DATE** and **Timeout** functions
 
-## [Click Here to see the project](http://127.0.0.1:3000/DigitalClock/index.html)
+## [Click Here to see the project](https://gouravkundu7370.github.io/JavaScript-Projects/DigitalClock)
