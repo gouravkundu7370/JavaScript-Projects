@@ -6,6 +6,8 @@
 
 ## 3. Digital Clock [Click Here to see the project](https://gouravkundu7370.github.io/JavaScript-Projects/DigitalClock)
 
+<<<<<<< HEAD
+
 ## 4. Number Guess [Click Here to see the project](https://gouravkundu7370.github.io/JavaScript-Projects/NumberGuess)
 
 ### **Don't Open Multiple Projects in Multiple tabs**.
