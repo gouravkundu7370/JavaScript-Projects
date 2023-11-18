@@ -59,12 +59,12 @@ p {
   font-size: 1.25rem;
   font-weight: 700;
 }
-.udwt {
+#udwt {
   color: tomato;
 }
-.nrml {
+#nrml {
   color: rgb(0, 255, 0);
 }
-.ovrwt {
+#ovrwt {
   color: red;
 }
