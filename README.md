@@ -4,6 +4,8 @@
 
 ## 2. BMI Calculator [Click Here to see the project](http://127.0.0.1:3000/BMI_Calculator/index.html)
 
-## 3. Digital Clock ## [Click Here to see the project](http://127.0.0.1:3000/DigitalClock/index.html)
+## 3. Digital Clock [Click Here to see the project](http://127.0.0.1:3000/DigitalClock/index.html)
 
-4. Number Guess
+## 4. Number Guess [Click Here to see the project](http://127.0.0.1:3000/NumberGuess/index.html)
+
+### **Don't Open Multiple Projects in Multiple tabs**.
