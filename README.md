@@ -7,3 +7,5 @@
 ## 3. Digital Clock [Click Here to see the project](https://gouravkundu7370.github.io/JavaScript-Projects/DigitalClock)
 
 ## 4. Number Guess [Click Here to see the project](https://gouravkundu7370.github.io/JavaScript-Projects/NumberGuess)
+
+## 5. UnlimitedRandomColors [Click Here to see the project](https://gouravkundu7370.github.io/JavaScript-Projects/UnlimitedRandomColors)
