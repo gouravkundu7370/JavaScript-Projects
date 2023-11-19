@@ -1,0 +1,24 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+.project {
+  background-color: skyblue;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.color {
+  color: darkmagenta;
+  display: flex;
+  flex-direction: row;
+}
+div {
+  font-size: larger;
+  font-weight: bold;
+}
