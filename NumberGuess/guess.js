@@ -13,7 +13,7 @@ const startOver = document.querySelector(".resultParas");
 const p = document.createElement("p");
 
 let prevGuess = [];
-let numGuess = 1;
+let numGuess = 0;
 
 let playGame = true;
 
@@ -34,7 +34,7 @@ function validateGuess(guess) {
     alert("PLease enter a  number less than 100");
   } else {
     prevGuess.push(guess);
-    if (numGuess === 10) {
+    if (numGuess === 9) {
       displayGuess(guess);
       displayMessage(`Game Over. Random number was ${randomNumber}`);
       endGame();
@@ -82,7 +82,7 @@ function newGame() {
   newGameButton.addEventListener("click", function (e) {
     randomNumber = Math.floor(Math.random() * 100 + 1);
     prevGuess = [];
-    numGuess = 1;
+    numGuess = 0;
     guessSlot.innerHTML = "";
     remaining.innerHTML = `${10 - numGuess} `;
     userInput.removeAttribute("disabled");
